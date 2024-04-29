@@ -2,4 +2,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nijiyamaharjan&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nijiyamaharjan&theme=dark&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
