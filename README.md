@@ -1,3 +1,2 @@
-Hello!
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nijiyamaharjan)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nijiyamaharjan)
