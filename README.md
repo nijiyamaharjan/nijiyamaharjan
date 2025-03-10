@@ -1,1 +1,2 @@
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=nijiyamaharjan&theme=dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+![nijiyamaharjan's Stats](https://github-readme-stats.vercel.app/api?username=nijiyamaharjan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![nijiyamaharjan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nijiyamaharjan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
