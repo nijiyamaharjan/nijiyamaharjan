@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=nijiyamaharjan\&include_all_commits=true
+https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues
